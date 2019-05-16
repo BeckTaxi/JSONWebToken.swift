@@ -25,5 +25,4 @@ Pod::Spec.new do |spec|
     }
   end
 
-  spec.preserve_paths = 'CommonCrypto/{shim.h,module.modulemap}'
 end
